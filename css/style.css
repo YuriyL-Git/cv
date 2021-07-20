@@ -9,7 +9,8 @@ body {
 }
 
 .container {
-  width: 90vw;
+  /*width: 90vw;*/
+  width: 75vw;
   margin: 2vh auto;
   background: rgba(0, 0, 0, 0.75);
   border-radius: 0.5rem;
@@ -171,7 +172,8 @@ footer {
   width: 65vw;
   border-top: 1px solid #444;
   padding-top: 1.5rem;
-  margin: 31.5rem auto 2.5rem;
+  /* margin: 31.5rem auto 2.5rem;*/
+  margin: 8rem auto 2.5rem;
 }
 
 
