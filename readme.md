@@ -1,1 +1,1 @@
-[My CV here -->](https://github.com/YuriyL-Git/cv/ "My CV")
+[My CV here -->](https://yuriyl-git.github.io/cv/ "My CV")
